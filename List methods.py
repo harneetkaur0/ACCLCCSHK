@@ -38,8 +38,8 @@ celebrityList.sort()
 print(celebrityList)
 print()
 print()
-#QUESTION 3
 
+#QUESTION 3
 print("    WElCOME TO OUR ONLINE SHOP   ")
 print()
 print("The items for sale are: ")
